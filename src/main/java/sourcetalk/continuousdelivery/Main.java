@@ -56,6 +56,9 @@ public class Main {
         }.start();
     }
 
+    /**
+     * 
+     */
     private static void createHttpServer() {
         httpServer = new Server(8080);
 
